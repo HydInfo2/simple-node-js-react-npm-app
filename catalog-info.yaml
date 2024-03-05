@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: simple-node-js-react-npm-app
+  annotations:
+    github.com/project-slug: HydInfo2/simple-node-js-react-npm-app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: HydInfo2
